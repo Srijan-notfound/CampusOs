@@ -220,7 +220,7 @@ export default function AIAssistant() {
             prioritize your workload.
           </p>
 
-        </div>
+        </div>   
 
       </div>
     </main>
